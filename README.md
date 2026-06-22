@@ -1,19 +1,20 @@
 # Referent
 
 Программа-референт. Минимальное приложение на [Next.js](https://nextjs.org).
+Project.md - описание проекта
 
 ## Запуск
 
 ```powershell
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Откройте [http://localhost:3000](http://localhost:3000).
 
 ## Скрипты
 
-- `npm run dev` — режим разработки
-- `npm run build` — сборка для production
-- `npm run start` — запуск production-сервера
+- `pnpm dev` — режим разработки
+- `pnpm build` — сборка для production
+- `pnpm start` — запуск production-сервера
 

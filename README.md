@@ -5,12 +5,16 @@ Project.md - описание проекта
 
 ## Запуск
 
+На машине, где устанавливаются зависимости:
+
 ```powershell
 pnpm install
 pnpm dev
 ```
 
 Откройте [http://localhost:3000](http://localhost:3000).
+
+> Если в репозитории обновились зависимости (например, добавлен Tailwind CSS), после `git pull` снова выполните `pnpm install`.
 
 ## Скрипты
 
